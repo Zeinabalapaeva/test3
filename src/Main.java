@@ -12,6 +12,7 @@ public class Main {
                 new MyClass("Nurlan", "Kylychev", "manty", "Practice", "Technical", "english"),
                 new MyClass("Zeinab", "Alapaeva", "lagman", "Practice", "Technical", "english"),
                 new MyClass("Guli", "Eshektoto", "besh", "Practice", "Technical", "english"),
+                new MyClass("Aiz", "Kylychev", "jjj", "Practice", "Technical", "english"),
                 new MyClass("Aiz", "Kylychev", "jjj", "Practice", "Technical", "english")
         };
 
